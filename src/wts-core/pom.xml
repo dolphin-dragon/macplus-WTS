@@ -8,7 +8,7 @@
 	<name>核心包</name>
 	<properties>
 		<wcp.version>3.2.3</wcp.version>
-		<spring.version>4.1.6.RELEASE</spring.version>
+		<spring.version>5.2.3.RELEASE</spring.version>
 		<!-- 文件拷贝时的编码 -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
